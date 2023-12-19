@@ -51,7 +51,7 @@
 ## Output:
 
 ### Name: Deepika R
-### Register Number: 212223230038
+### Register Number: 23006405
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
